@@ -1,6 +1,8 @@
 TravelBook – Modern iOS Location Saver App
 TravelBook is a location-saving iOS application that allows users to add, view, and manage places on a map.
 
+This repository uses Apple `MapKit` and `CoreLocation`. It does not require a Google Maps API key, billing account, or API credits.
+
 This project started as a classic UIKit + Storyboard + Core Data learning app, and is now being redesigned with a more modern Apple development stack using SwiftUI, SwiftData, NavigationStack, and MapKit.
 
 Features

@@ -63,6 +63,7 @@
                         <outlet property="mapView" destination="XtR-Gw-5l9" id="JmV-r7-cQS"/>
                         <outlet property="nameText" destination="f7f-wk-JvK" id="YeI-j5-GQf"/>
                         <outlet property="noteText" destination="NbC-LW-r05" id="XvY-E0-jLe"/>
+                        <outlet property="savePlaceButton" destination="LEk-3e-69g" id="p1J-ZK-NjA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
