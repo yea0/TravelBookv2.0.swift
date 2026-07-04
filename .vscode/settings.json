@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    120
+  ],
+  "[swift]": {
+    "editor.defaultFormatter": "sswg.swift-lang",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "files.associations": {
+    "*.plist": "xml"
+  }
+}
